@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # System updates (restarts if required)
-sudo softwareupdate --install --all --restart
+sudo softwareupdate --list --all --install --restart
 
 # Brew formulas
 brew update # updates formulaes and Homebrew

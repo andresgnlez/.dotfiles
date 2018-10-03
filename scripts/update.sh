@@ -11,6 +11,3 @@ brew upgrade # Upgrades once formulaes are updated
 brew cleanup
 brew prune # removes old symlinks
 brew doctor # checks if everything is OK
-
-# Brew casks
-brew cask upgrade # updates apps installed through cask
